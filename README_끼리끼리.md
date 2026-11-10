@@ -128,4 +128,4 @@ pytest tests/test_project_structure.py
 
 ## 10. 팀
 
-A4팀 · 팀장 김덕중 · [팀원 이름 추가]
+A4팀 · 팀장 김덕중 · [윤승기,정승민,장승식,조준혁]
